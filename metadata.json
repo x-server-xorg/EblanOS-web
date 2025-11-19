@@ -1,0 +1,5 @@
+{
+  "name": "EblanOS",
+  "description": "A fully functional mobile web operating system featuring an iOS 18 inspired design, complete with apps like Calculator, Terminal, Music, and dynamic wallpaper switching.",
+  "requestFramePermissions": []
+}
